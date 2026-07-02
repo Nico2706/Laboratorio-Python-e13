@@ -1,1 +1,5 @@
 1;Informatica 1;10
+2;Programacion en Python;15
+3;Base de Datos;12
+4;Redes de Computadoras;20
+5;Desarrollo Web;18
