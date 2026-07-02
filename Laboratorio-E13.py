@@ -31,20 +31,6 @@ def mostrar_menu():
     print("8. Salir")
     print("=" * 40)
 
-def buscar_curso(id_buscar):
-
-    with open(ARCHIVO_CURSOS, "r", encoding="utf-8") as archivo:
-
-        for linea in archivo:
-
-            datos = linea.strip().split(";")
-
-            if len(datos) == 3:
-
-                if datos[0] == id_buscar:
-                    return datos
-
-    return None
 
 def buscar_curso(id_buscar):
 
