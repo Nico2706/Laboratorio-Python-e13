@@ -31,7 +31,6 @@ def mostrar_menu():
     print("8. Salir")
     print("=" * 40)
 
-
 def buscar_curso(id_buscar):
 
     with open(ARCHIVO_CURSOS, "r", encoding="utf-8") as archivo:
@@ -393,7 +392,6 @@ def mostrar_estadisticas():
     print(f"Estudiantes en lista de espera: {total_espera}")
     print(f"Curso con más inscriptos: {nombre_curso} ({mayor} alumnos)")
 
-
 def main():
 
     inicializar_archivos()
@@ -438,5 +436,5 @@ def main():
             case _:
                 print("\nOpción inválida.")
 
-
+# Menú principal
 main()
