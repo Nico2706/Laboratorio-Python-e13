@@ -20,3 +20,6 @@
 45888222;Brisa Morales;brisa.morales@gmail.com
 44999333;Santiago Pereyra;santiago.pereyra@gmail.com
 45000111;Valentina Cabrera;valentina.cabrera@gmail.com
+45004043;Jesus Alvares;alvito.jesus@gmail.com
+44344444;Franco Abate; abate.franco@gmail.com
+32330380;Marcos Medrano; medrano.franco@gmail.com
