@@ -100,3 +100,6 @@ Muestra todos los cursos registrados en el sistema. Para cada curso se visualiza
 # mostrar_estadisticas()
 
 Genera un resumen general del sistema a partir de la información almacenada en los archivos de datos. Calcula el total de estudiantes registrados, la cantidad de cursos disponibles, el número de inscripciones realizadas, los estudiantes en lista de espera y determina cuál es el curso con mayor cantidad de inscriptos.
+
+Alumnos: 
+Campos Basualdo Evelin - Legajo: 23490.
