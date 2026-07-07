@@ -1,5 +1,7 @@
 # Sistema de Inscripción a Cursos
 
+Nicolas
+
 ## Descripción
 
 Este proyecto consiste en un sistema de gestión de inscripciones a cursos desarrollado en Python. Permite registrar estudiantes, administrar cursos, gestionar inscripciones respetando el cupo disponible, crear listas de espera y mostrar estadísticas generales del sistema.
