@@ -107,3 +107,4 @@ Genera un resumen general del sistema a partir de la información almacenada en 
 # Alumnos: 
 Campos Basualdo Evelin - Legajo: 23490.
 Barreto Yamila Elisa - Legajo: 31168.
+Vaz Maria Luna - Legajo: 29226.
