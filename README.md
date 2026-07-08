@@ -6,7 +6,7 @@ Este proyecto consiste en un sistema de gestión de inscripciones a cursos desar
 
 # Uso de IA
 
-En este proyecto utilizamos la IA para responder dudas en cuanto a la implementación de archivos de tipo .txt en el cual evidenciamos un trabajo terminado prolijo y conforme a las consignas planteadas para el proyecto. 
+En este proyecto utilizamos la IA para responder dudas en cuanto a la implementación de archivos de tipo .txt en el cual evidenciamos un trabajo terminado prolijo y conforme a las consignas planteadas para el proyecto.
 Con la IA también trabajamos para generar algunas ideas en las funciones que posteriormente implementamos en el código.
 
 ## Funcionalidades
@@ -104,7 +104,9 @@ Muestra todos los cursos registrados en el sistema. Para cada curso se visualiza
 
 Genera un resumen general del sistema a partir de la información almacenada en los archivos de datos. Calcula el total de estudiantes registrados, la cantidad de cursos disponibles, el número de inscripciones realizadas, los estudiantes en lista de espera y determina cuál es el curso con mayor cantidad de inscriptos.
 
-# Alumnos: 
+# Alumnos:
+
 Campos Basualdo Evelin - Legajo: 23490.
 Barreto Yamila Elisa - Legajo: 31168.
 Vaz Maria Luna - Legajo: 29226.
+Richter, Carlos Nicolas Augusto - Legajo: 26785
