@@ -110,4 +110,4 @@ Campos Basualdo Evelin - Legajo: 23490.
 Barreto Yamila Elisa - Legajo: 31168.
 Vaz Maria Luna - Legajo: 29226.
 Richter, Carlos Nicolas Augusto - Legajo: 26785
-Vallejos, Yvonne - Legajo: 29264
+Vallejos, Yvonne - Legajo: 29264 
