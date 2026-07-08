@@ -113,3 +113,5 @@ Richter, Carlos Nicolas Augusto - Legajo: 26785
 Vallejos, Yvonne - Legajo: 29264 
 
 # LINK AL REPOSITORIO: https://github.com/Nico2706/Laboratorio-Python-e13.git
+
+# LINK AL VIDEO: https://drive.google.com/file/d/1WMnjLtb2pWG4Z-oJDoEZrIMjCp8HPgSg/view?usp=sharing
